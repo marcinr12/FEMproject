@@ -1,0 +1,11 @@
+Time matrices: 0.189[s]
+ELIMINACJA GAUSSA
+Iteracja: 1	Gauss: 1.008[s]	Max value: 149.557	Min value: 100	Total time: 1.017[s]
+Iteracja: 2	Gauss: 0.94[s]	Max value: 177.445	Min value: 100	Total time: 0.951[s]
+Iteracja: 3	Gauss: 0.877[s]	Max value: 197.267	Min value: 100	Total time: 0.886[s]
+Iteracja: 4	Gauss: 0.876[s]	Max value: 213.153	Min value: 100	Total time: 0.895[s]
+Iteracja: 5	Gauss: 0.949[s]	Max value: 226.683	Min value: 100	Total time: 0.966[s]
+Iteracja: 6	Gauss: 0.88[s]	Max value: 238.607	Min value: 100	Total time: 0.9[s]
+Iteracja: 7	Gauss: 0.883[s]	Max value: 249.347	Min value: 100	Total time: 0.893[s]
+Iteracja: 8	Gauss: 0.859[s]	Max value: 259.165	Min value: 100	Total time: 0.878[s]
+Iteracja: 9	Gauss: 0.866[s]	Max value: 268.241	Min value: 100	Total time: 0.871[s]
